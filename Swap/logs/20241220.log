@@ -1,0 +1,195 @@
+0	2024.12.20 11:17:06.605		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 11:17:06.662		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 11:17:06.667	43.157.39.63	Connect
+0	2024.12.20 11:17:07.205	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 11:17:07.425		Unload: manager A0671E10 not released
+0	2024.12.20 11:17:07.528	43.157.39.63	'1': disconnect
+0	2024.12.20 11:17:07.528		Remove: manager A0671E10
+0	2024.12.20 15:43:30.155		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 15:43:30.214		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 15:43:30.218	43.157.39.63	Connect
+0	2024.12.20 15:43:30.768	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 15:43:30.992		Unload: manager 9928EFA0 not released
+0	2024.12.20 15:43:31.101	43.157.39.63	'1': disconnect
+0	2024.12.20 15:43:31.101		Remove: manager 9928EFA0
+0	2024.12.20 15:43:53.752		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 15:43:53.810		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 15:43:53.814	43.157.39.63	Connect
+0	2024.12.20 15:43:54.372	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 15:43:54.601		Unload: manager A03BC540 not released
+0	2024.12.20 15:43:54.705	43.157.39.63	'1': disconnect
+0	2024.12.20 15:43:54.705		Remove: manager A03BC540
+0	2024.12.20 15:45:03.854		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 15:45:03.915		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 15:45:03.919	43.157.39.63	Connect
+0	2024.12.20 15:45:04.449	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 15:45:04.664		Unload: manager E43D120 not released
+0	2024.12.20 15:45:04.771	43.157.39.63	'1': disconnect
+0	2024.12.20 15:45:04.771		Remove: manager E43D120
+0	2024.12.20 16:00:57.023		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:00:57.082		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:00:57.085	43.157.39.63	Connect
+0	2024.12.20 16:00:57.623	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 16:00:57.843		Unload: manager 8275C8F0 not released
+0	2024.12.20 16:00:57.945	43.157.39.63	'1': disconnect
+0	2024.12.20 16:00:57.945		Remove: manager 8275C8F0
+0	2024.12.20 16:05:25.196		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:05:25.253		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:05:25.257	43.157.39.63	Connect
+0	2024.12.20 16:05:25.788	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 16:05:26.008		Unload: manager AE47D440 not released
+0	2024.12.20 16:05:26.113	43.157.39.63	'1': disconnect
+0	2024.12.20 16:05:26.113		Remove: manager AE47D440
+0	2024.12.20 16:30:41.149		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:30:41.208		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:30:41.212	43.157.39.63	Connect
+0	2024.12.20 16:30:41.773	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 16:30:42.104	43.157.39.63	'1': disconnect
+0	2024.12.20 16:30:42.104		Remove: manager 1FA6E4C0
+0	2024.12.20 16:34:57.457		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:34:57.517		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:34:57.521	43.157.39.63	Connect
+0	2024.12.20 16:34:58.082	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 16:34:58.424	43.157.39.63	'1': disconnect
+0	2024.12.20 16:34:58.424		Remove: manager 5CE3EED0
+0	2024.12.20 16:35:57.342		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:35:57.402		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:35:57.406	43.157.39.63	Connect
+0	2024.12.20 16:35:57.954	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 16:35:58.282	43.157.39.63	'1': disconnect
+0	2024.12.20 16:35:58.282		Remove: manager 3C3AF640
+0	2024.12.20 16:46:29.770		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:46:29.828		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:46:29.832	43.157.39.63	Connect
+0	2024.12.20 16:46:30.369	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 16:46:30.702	43.157.39.63	'1': disconnect
+0	2024.12.20 16:46:30.702		Remove: manager 8113DEE0
+0	2024.12.20 16:47:30.074		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:47:30.135		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:47:30.140	43.157.107.240:443	Connect
+0	2024.12.20 16:47:30.700	43.157.107.240:443	'1': login (server build 1420)
+0	2024.12.20 16:47:31.029	43.157.107.240:443	'1': disconnect
+0	2024.12.20 16:47:31.029		Remove: manager 87D7FA70
+0	2024.12.20 16:48:05.700		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:48:05.759		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:48:05.764	43.157.39.63	Connect
+0	2024.12.20 16:48:06.305	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 16:48:06.629	43.157.39.63	'1': disconnect
+0	2024.12.20 16:48:06.629		Remove: manager A352F110
+0	2024.12.20 16:48:24.839		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:48:24.898		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:48:24.902	43.157.39.63	Connect
+0	2024.12.20 16:48:25.441	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 16:48:25.775	43.157.39.63	'1': disconnect
+0	2024.12.20 16:48:25.775		Remove: manager 8B83D020
+0	2024.12.20 16:49:29.296		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:49:29.355		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:49:29.359	43.157.39.63	Connect
+0	2024.12.20 16:49:29.888	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 16:49:30.210	43.157.39.63	'1': disconnect
+0	2024.12.20 16:49:30.210		Remove: manager 38B3D7F0
+0	2024.12.20 16:53:24.345		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:53:24.411		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:53:24.415	43.157.39.63	Connect
+0	2024.12.20 16:53:24.927	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 16:53:25.621	43.157.39.63	'1': request 62 groups
+0	2024.12.20 16:53:25.622		Unload: manager 1874F8C0 not released
+0	2024.12.20 16:53:25.728	43.157.39.63	'1': disconnect
+0	2024.12.20 16:53:25.728		Remove: manager 1874F8C0
+0	2024.12.20 16:54:53.846		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:54:53.903		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:54:53.907	43.157.39.63	Connect
+0	2024.12.20 16:54:54.393	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 16:54:55.269	43.157.39.63	'1': request Symbols configuration
+0	2024.12.20 16:54:55.269		Unload: manager D1D6CC40 not released
+0	2024.12.20 16:54:55.380	43.157.39.63	'1': disconnect
+0	2024.12.20 16:54:55.380		Remove: manager D1D6CC40
+0	2024.12.20 16:56:27.602		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:56:27.660		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:56:27.664	43.157.39.63	Connect
+0	2024.12.20 16:56:28.213	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 16:56:29.117	43.157.39.63	'1': request Symbols configuration
+0	2024.12.20 16:56:29.292		Unload: manager 9470FC80 not released
+0	2024.12.20 16:56:29.396	43.157.39.63	'1': disconnect
+0	2024.12.20 16:56:29.396		Remove: manager 9470FC80
+0	2024.12.20 16:59:22.898		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:59:22.957		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 16:59:22.960	43.157.39.63	Connect
+0	2024.12.20 16:59:23.503	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 16:59:24.393	43.157.39.63	'1': request Symbols configuration
+0	2024.12.20 16:59:25.115		Unload: manager 5329EAA0 not released
+0	2024.12.20 16:59:25.221	43.157.39.63	'1': disconnect
+0	2024.12.20 16:59:25.221		Remove: manager 5329EAA0
+0	2024.12.20 17:20:46.305		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 17:20:46.363		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 17:20:46.367	43.157.39.63	Connect
+0	2024.12.20 17:20:46.928	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 17:20:47.851	43.157.39.63	'1': request Symbols configuration
+0	2024.12.20 17:20:48.548		Unload: manager 4732EFD0 not released
+0	2024.12.20 17:20:48.651	43.157.39.63	'1': disconnect
+0	2024.12.20 17:20:48.651		Remove: manager 4732EFD0
+0	2024.12.20 17:26:06.082		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 17:26:06.141		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 17:26:06.146	43.157.39.63	Connect
+0	2024.12.20 17:26:06.710	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 17:26:07.644	43.157.39.63	'1': request Symbols configuration
+0	2024.12.20 17:26:08.343		Unload: manager 5390F050 not released
+0	2024.12.20 17:26:08.453	43.157.39.63	'1': disconnect
+0	2024.12.20 17:26:08.453		Remove: manager 5390F050
+0	2024.12.20 17:58:59.426		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 17:58:59.485		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 17:58:59.489	43.157.39.63	Connect
+0	2024.12.20 17:59:00.038	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 17:59:00.938	43.157.39.63	'1': request Symbols configuration
+0	2024.12.20 17:59:01.616		Unload: manager C5A8E820 not released
+0	2024.12.20 17:59:01.720	43.157.39.63	'1': disconnect
+0	2024.12.20 17:59:01.720		Remove: manager C5A8E820
+0	2024.12.20 18:39:47.459		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 18:39:47.518		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 18:39:47.522	43.157.39.63	Connect
+0	2024.12.20 18:39:48.065	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 18:39:48.286		Unload: manager 50E1E170 not released
+0	2024.12.20 18:39:48.395	43.157.39.63	'1': disconnect
+0	2024.12.20 18:39:48.395		Remove: manager 50E1E170
+0	2024.12.20 18:40:33.801		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 18:40:33.860		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 18:40:33.864	43.157.39.63	Connect
+0	2024.12.20 18:40:34.432	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 18:40:34.666		Unload: manager BF5FDA10 not released
+0	2024.12.20 18:40:34.778	43.157.39.63	'1': disconnect
+0	2024.12.20 18:40:34.778		Remove: manager BF5FDA10
+0	2024.12.20 18:42:05.629		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 18:42:05.687		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 18:42:05.693	43.157.39.63	Connect
+0	2024.12.20 18:42:06.255	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 18:42:06.485		Unload: manager 7C65D070 not released
+0	2024.12.20 18:42:06.600	43.157.39.63	'1': disconnect
+0	2024.12.20 18:42:06.600		Remove: manager 7C65D070
+0	2024.12.20 18:46:56.651		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 18:46:56.713		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 18:46:56.717	43.157.39.63	Connect
+0	2024.12.20 18:46:57.247	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 18:46:57.463		Unload: manager 2CE5E2B0 not released
+0	2024.12.20 18:46:57.565	43.157.39.63	'1': disconnect
+0	2024.12.20 18:46:57.565		Remove: manager 2CE5E2B0
+0	2024.12.20 18:51:25.162		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 18:51:25.223		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 18:51:25.226	43.157.39.63	Connect
+0	2024.12.20 18:51:25.782	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 18:51:26.010		Unload: manager 4F93CBC0 not released
+0	2024.12.20 18:51:26.118	43.157.39.63	'1': disconnect
+0	2024.12.20 18:51:26.118		Remove: manager 4F93CBC0
+0	2024.12.20 18:52:34.796		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 18:52:34.855		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 18:52:34.859	43.157.39.63	Connect
+0	2024.12.20 18:52:35.445	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 18:52:35.687		Unload: manager 75D0F140 not released
+0	2024.12.20 18:52:35.800	43.157.39.63	'1': disconnect
+0	2024.12.20 18:52:35.800		Remove: manager 75D0F140
+0	2024.12.20 18:53:07.913		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 18:53:07.972		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.20 18:53:07.976	43.157.39.63	Connect
+0	2024.12.20 18:53:08.512	43.157.39.63	'1': login (server build 1420)
+0	2024.12.20 18:53:08.729		Unload: manager 52E5D180 not released
+0	2024.12.20 18:53:08.840	43.157.39.63	'1': disconnect
+0	2024.12.20 18:53:08.840		Remove: manager 52E5D180

@@ -1,0 +1,4 @@
+﻿  StdAfx.cpp
+  Swap.cpp
+Swap.obj : error LNK2001: unresolved external symbol _WSAStartup@8
+D:\Hoang_report\MAS report\MT4 Swap\Swap\Release\Swap.exe : fatal error LNK1120: 1 unresolved externals

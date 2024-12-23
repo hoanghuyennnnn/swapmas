@@ -1,0 +1,2 @@
+﻿Swap.obj : error LNK2019: unresolved external symbol WSAStartup referenced in function "public: int __cdecl CManagerFactory::WinsockStartup(void)const " (?WinsockStartup@CManagerFactory@@QEBAHXZ)
+D:\Hoang_report\MAS report\MT4 Swap\Swap\x64\Debug\Swap.exe : fatal error LNK1120: 1 unresolved externals

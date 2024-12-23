@@ -1,0 +1,676 @@
+0	2024.12.23 15:18:15.324		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 15:18:15.382		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 15:18:15.386	43.157.39.63	Connect
+0	2024.12.23 15:18:15.902	43.157.39.63	'1': login (server build 1420)
+0	2024.12.23 15:18:16.135		Unload: manager 2386F920 not released
+0	2024.12.23 15:18:16.240	43.157.39.63	'1': disconnect
+0	2024.12.23 15:18:16.240		Remove: manager 2386F920
+0	2024.12.23 15:24:03.559		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 15:24:03.617		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 15:24:03.621	43.157.39.63	Connect
+0	2024.12.23 15:24:04.174	43.157.39.63	'1': login (server build 1420)
+0	2024.12.23 15:24:04.400		Unload: manager 6C9BEFD0 not released
+0	2024.12.23 15:24:04.504	43.157.39.63	'1': disconnect
+0	2024.12.23 15:24:04.504		Remove: manager 6C9BEFD0
+0	2024.12.23 15:27:04.856		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 15:27:04.915		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 15:27:04.919	43.157.39.63	Connect
+0	2024.12.23 15:27:05.480	43.157.39.63	'1': login (server build 1420)
+0	2024.12.23 15:27:05.711		Unload: manager 9DA7F310 not released
+0	2024.12.23 15:27:05.826	43.157.39.63	'1': disconnect
+0	2024.12.23 15:27:05.826		Remove: manager 9DA7F310
+0	2024.12.23 15:27:36.897		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 15:27:36.954		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 15:27:36.959	43.157.39.63	Connect
+0	2024.12.23 15:27:37.565	43.157.39.63	'1': login (server build 1420)
+0	2024.12.23 15:27:38.585	43.157.39.63	'1': request Symbols configuration
+0	2024.12.23 15:27:39.243		Unload: manager 9557F660 not released
+0	2024.12.23 15:27:39.346	43.157.39.63	'1': disconnect
+0	2024.12.23 15:27:39.346		Remove: manager 9557F660
+0	2024.12.23 15:29:20.639		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 15:29:20.697		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 15:29:20.701	43.157.39.63	Connect
+0	2024.12.23 15:29:21.312	43.157.39.63	'1': login (server build 1420)
+0	2024.12.23 15:29:21.568		Unload: manager 94960530 not released
+0	2024.12.23 15:29:21.672	43.157.39.63	'1': disconnect
+0	2024.12.23 15:29:21.672		Remove: manager 94960530
+0	2024.12.23 15:32:14.672		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 15:32:14.730		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 15:32:14.735	43.157.39.63	Connect
+0	2024.12.23 15:32:15.347	43.157.39.63	'1': login (server build 1420)
+0	2024.12.23 15:32:16.379	43.157.39.63	'1': request Symbols configuration
+0	2024.12.23 15:32:17.212	43.157.39.63	'1': disconnect
+0	2024.12.23 15:32:17.212		Remove: manager BFC9E4A0
+0	2024.12.23 15:56:39.153		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 15:56:39.212		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 15:56:39.216	43.157.39.63	Connect
+0	2024.12.23 15:56:39.795	43.157.39.63	'1': login (server build 1420)
+0	2024.12.23 15:56:40.764	43.157.39.63	'1': request Symbols configuration
+0	2024.12.23 15:56:41.936	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:42.372	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:56:42.860	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:43.282	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:56:43.777	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:44.201	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:56:44.697	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:45.125	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:56:45.613	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:46.034	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:56:46.542	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:46.963	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:56:47.452	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:47.873	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:56:48.366	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:48.854	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:49.347	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:49.847	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:50.335	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:50.823	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:56:51.320	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:51.812	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:52.301	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:52.789	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:53.283	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:53.783	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:54.271	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:54.776	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:55.267	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:55.703	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:56:56.196	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:56.620	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:56:57.108	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:57.522	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:56:58.014	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:58.510	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:59.008	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:56:59.432	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:56:59.928	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:00.362	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:00.848	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:01.282	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:01.778	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:02.203	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:02.690	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:03.132	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:03.618	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:04.109	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:04.601	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:05.027	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:05.524	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:05.951	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:06.447	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:06.873	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:07.359	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:07.782	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:08.276	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:08.682	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:09.173	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:09.601	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:10.087	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:10.516	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:11.008	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:11.433	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:11.925	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:12.351	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:12.844	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:13.268	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:13.755	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:14.160	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:14.652	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:15.075	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:15.567	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:15.991	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:16.478	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:16.901	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:17.398	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:17.827	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:18.324	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:18.732	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:19.224	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:19.648	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:20.134	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:20.539	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:21.031	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:21.457	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:21.957	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:22.380	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:22.867	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:23.295	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:23.789	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:24.214	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:24.700	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:25.124	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:25.615	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:26.101	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:26.601	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:27.106	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:27.600	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:28.015	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:28.501	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:28.928	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:29.415	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:29.838	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:30.332	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:30.756	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:31.262	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:31.667	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:32.159	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:32.570	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:33.060	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:33.556	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:34.043	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:34.536	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:35.027	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:35.454	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:35.943	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:36.367	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:36.860	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:37.354	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:37.840	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:38.248	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:38.737	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:39.161	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:39.647	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:40.071	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:40.563	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:40.987	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:41.474	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:41.961	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:42.452	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:42.864	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:43.355	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:43.780	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:44.272	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:44.697	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:45.192	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:45.616	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:46.108	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:46.512	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:47.004	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:47.437	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:47.929	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:48.419	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:48.918	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:49.332	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:49.832	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:50.256	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 15:57:50.744	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:51.229	43.157.39.63	'1': refresh symbols
+0	2024.12.23 15:57:51.343	43.157.39.63	'1': disconnect
+0	2024.12.23 15:57:51.343		Remove: manager CA7F0E50
+0	2024.12.23 16:02:06.074		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 16:02:06.133		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 16:02:06.137	43.157.39.63	Connect
+0	2024.12.23 16:02:06.723	43.157.39.63	'1': login (server build 1420)
+0	2024.12.23 16:02:07.701	43.157.39.63	'1': request Symbols configuration
+0	2024.12.23 16:02:08.908	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:09.314	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:09.807	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:10.215	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:10.718	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:11.164	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:11.667	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:12.071	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:12.568	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:12.975	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:13.468	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:13.914	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:14.412	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:14.818	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:15.314	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:15.813	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:16.315	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:16.808	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:17.300	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:17.709	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:18.209	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:18.704	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:19.196	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:19.687	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:20.187	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:20.681	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:21.176	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:21.668	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:22.166	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:22.581	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:23.083	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:23.514	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:24.005	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:24.412	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:24.922	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:25.421	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:25.924	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:26.332	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:26.835	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:27.245	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:27.741	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:28.148	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:28.640	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:29.047	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:29.544	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:29.951	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:30.453	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:30.951	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:31.443	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:31.872	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:32.373	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:32.802	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:33.303	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:33.709	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:34.201	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:34.608	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:35.100	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:35.513	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:36.017	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:36.428	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:36.929	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:37.334	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:37.861	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:38.269	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:38.760	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:39.169	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:39.674	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:40.082	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:40.579	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:40.989	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:41.490	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:41.898	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:42.401	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:42.808	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:43.309	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:43.719	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:44.212	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:44.620	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:45.117	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:45.527	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:46.021	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:46.454	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:46.946	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:47.351	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:47.858	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:48.267	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:48.764	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:49.178	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:49.672	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:50.087	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:50.579	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:50.985	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:51.486	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:51.891	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:52.398	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:52.898	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:53.394	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:53.885	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:54.382	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:54.836	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:55.328	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:55.735	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:56.231	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:56.637	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:57.142	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:57.548	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:58.051	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:58.459	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:58.959	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:02:59.369	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:02:59.867	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:00.359	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:00.852	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:01.343	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:01.835	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:02.242	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:03:02.738	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:03.145	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:03:03.649	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:04.140	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:04.635	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:05.042	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:03:05.567	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:05.975	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:03:06.473	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:06.891	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:03:07.389	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:07.796	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:03:08.295	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:08.785	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:09.286	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:09.693	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:03:10.195	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:10.601	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:03:11.098	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:11.513	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:03:12.005	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:12.412	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:03:12.917	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:13.328	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:03:13.819	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:14.226	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:03:14.739	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:15.246	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:15.745	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:16.150	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:03:16.647	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:17.051	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:03:17.549	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:18.041	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:03:18.146	43.157.39.63	'1': disconnect
+0	2024.12.23 16:03:18.146		Remove: manager 2E321510
+0	2024.12.23 16:12:53.649		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 16:12:53.707		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 16:12:53.711	43.157.39.63	Connect
+0	2024.12.23 16:12:54.272	43.157.39.63	'1': login (server build 1420)
+0	2024.12.23 16:12:55.198	43.157.39.63	'1': request Symbols configuration
+0	2024.12.23 16:12:56.402	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:12:56.795	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:12:57.267	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:12:57.665	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:12:58.141	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:12:58.541	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:12:59.011	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:12:59.408	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:12:59.881	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:00.286	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:00.773	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:01.167	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:01.644	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:02.041	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:02.517	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:02.988	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:03.462	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:03.929	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:04.397	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:04.790	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:05.273	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:05.741	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:06.210	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:06.677	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:07.151	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:07.619	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:08.088	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:08.558	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:09.034	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:09.428	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:09.901	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:10.309	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:10.794	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:11.189	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:11.660	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:12.127	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:12.605	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:13.000	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:13.467	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:13.861	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:14.334	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:14.728	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:15.213	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:15.607	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:16.085	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:16.479	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:16.953	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:17.423	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:17.901	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:18.296	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:18.767	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:19.161	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:19.629	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:20.024	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:20.498	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:20.892	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:21.359	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:21.778	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:22.260	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:22.654	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:23.131	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:23.527	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:23.999	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:24.396	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:24.863	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:25.260	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:25.728	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:26.121	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:26.594	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:26.989	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:27.458	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:27.854	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:28.336	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:28.743	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:29.216	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:29.609	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:30.088	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:30.484	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:30.962	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:31.355	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:31.823	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:32.225	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:32.692	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:33.089	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:33.561	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:33.961	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:34.428	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:34.844	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:35.336	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:35.892	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:36.359	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:36.859	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:37.336	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:37.793	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:38.266	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:38.734	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:39.202	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:39.682	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:40.150	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:40.547	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:41.027	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:41.420	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:41.893	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:42.304	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:42.779	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:43.175	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:43.650	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:44.044	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:44.518	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:44.916	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:45.398	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:45.879	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:46.352	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:46.818	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:47.286	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:47.695	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:48.168	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:48.571	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:49.049	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:49.531	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:50.006	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:50.401	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:50.878	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:51.274	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:51.748	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:52.141	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:52.616	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:53.013	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:53.490	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:53.973	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:54.453	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:54.850	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:55.330	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:55.726	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:56.198	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:56.597	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:57.066	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:57.459	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:57.930	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:58.325	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:58.798	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:13:59.191	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:13:59.675	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:14:00.149	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:14:00.621	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:14:01.015	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:14:01.496	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:14:01.891	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:14:02.359	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:14:02.837	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:14:02.944	43.157.39.63	'1': disconnect
+0	2024.12.23 16:14:02.944		Remove: manager B5FDE490
+0	2024.12.23 16:46:25.561		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 16:46:25.620		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 16:46:25.624	43.157.39.63	Connect
+0	2024.12.23 16:46:26.179	43.157.39.63	'1': login (server build 1420)
+0	2024.12.23 16:46:27.093	43.157.39.63	'1': request Symbols configuration
+0	2024.12.23 16:46:27.557	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:46:27.953	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:46:28.417	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:46:28.808	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:46:29.271	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:46:29.673	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:46:30.134	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:46:30.531	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:46:30.992	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:46:31.386	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:46:31.847	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:46:32.240	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 16:46:32.701	43.157.39.63	'1': refresh symbols
+0	2024.12.23 16:46:32.895		Unload: manager 2E0503A0 not released
+0	2024.12.23 16:46:33.002	43.157.39.63	'1': disconnect
+0	2024.12.23 16:46:33.002		Remove: manager 2E0503A0
+0	2024.12.23 17:07:21.590		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 17:07:21.651		MetaTrader 4 Manager API build 1090 initialized
+0	2024.12.23 17:07:21.655	43.157.39.63	Connect
+0	2024.12.23 17:07:22.216	43.157.39.63	'1': login (server build 1420)
+0	2024.12.23 17:07:23.141	43.157.39.63	'1': request Symbols configuration
+0	2024.12.23 17:07:23.618	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:24.013	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:24.482	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:24.884	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:25.352	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:25.745	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:26.221	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:26.617	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:27.084	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:27.485	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:27.951	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:28.346	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:28.845	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:29.260	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:29.727	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:30.201	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:30.676	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:31.074	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:31.542	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:32.018	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:32.486	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:32.959	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:33.436	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:33.833	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:34.310	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:34.709	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:35.184	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:35.578	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:36.051	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:36.536	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:36.938	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:37.415	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:37.810	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:38.288	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:38.683	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:39.160	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:39.557	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:40.024	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:40.420	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:40.895	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:41.366	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:41.762	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:42.244	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:42.640	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:43.114	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:43.510	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:43.982	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:44.376	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:44.849	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:45.263	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:45.735	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:46.132	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:46.601	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:46.994	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:47.470	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:47.867	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:48.347	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:48.743	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:49.220	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:49.615	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:50.083	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:50.481	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:50.963	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:51.359	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:51.836	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:52.238	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:52.711	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:53.108	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:53.590	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:53.983	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:54.457	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:54.853	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:55.321	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:55.716	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:56.183	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:56.580	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:57.058	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:57.453	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:57.921	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:58.336	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:58.817	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:07:59.214	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:07:59.687	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:00.088	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:00.556	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:00.951	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:01.419	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:01.887	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:02.361	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:02.754	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:03.224	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:03.618	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:04.085	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:04.483	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:04.959	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:05.352	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:05.833	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:06.227	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:06.696	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:07.101	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:07.575	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:08.049	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:08.523	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:08.920	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:09.398	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:09.796	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:10.277	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:10.753	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:11.150	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:11.627	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:12.023	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:12.493	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:12.920	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:13.393	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:13.787	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:14.263	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:14.740	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:15.138	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:15.607	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:16.000	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:16.471	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:16.863	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:17.336	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:17.731	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:18.208	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:18.611	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:19.089	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:19.485	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:19.960	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:20.434	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:20.835	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:21.306	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:21.699	43.157.39.63	'1': update Symbol configuration
+0	2024.12.23 17:08:22.167	43.157.39.63	'1': refresh symbols
+0	2024.12.23 17:08:22.275	43.157.39.63	'1': disconnect
+0	2024.12.23 17:08:22.275		Remove: manager C860C470
