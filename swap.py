@@ -15,11 +15,11 @@ import io
 import time
 
 #information of liquity provider
-mail = "support@glovicefx.com"
+mail = "email.com"
 password = "bqlrklwltyjqsfcn"
-EQUITI_sender = "brokeragesupport@equiti.com"
-BROC_sender = "dealingops@broctagon.com"
-GBE_sender = "l.schober@gbebrokers.com"
+EQUITI_sender = "broker.com"
+BROC_sender = "dealing.com"
+GBE_sender = "l.schobe.com"
 imap_server = "imap.gmail.com"
 
 #create file log for everyday
@@ -55,7 +55,6 @@ def download_sharepoint_file(url, save_path):
     except requests.exceptions.RequestException as e:
         print(f"An error occurred: {e}")
 
-# Example usage
 def mas_swap():
     url = "https://bidxmarkets.sharepoint.com/:x:/s/Operations/Ec68NemlfrlIrkhWwup5KecBlb6YcLjTyxfqaWTltCivOg?download=1"
 
