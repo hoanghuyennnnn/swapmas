@@ -32,7 +32,7 @@ def download_sharepoint_file(url, save_path):
     except requests.exceptions.RequestException as e:
         print(f"An error occurred: {e}")
 
-# Example usage
+# Mas link
 url = "https://bidxmarkets.sharepoint.com/:x:/s/Operations/Ec68NemlfrlIrkhWwup5KecBlb6YcLjTyxfqaWTltCivOg?download=1"
 
 current_folder = os.getcwd()
